@@ -1,0 +1,10 @@
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\config\SpringInitConfig.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\dao\AccountDaoImpl.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\api_account_spring_rest\App.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\service\AccountService.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\dao\AccountDao.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\config\SpringJpaConfig.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\rest\SpringRestController.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\domain\Account.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\service\AccountServiceImpl.java
+C:\Users\Italo\workspace-spring-tools-suite\api-account-spring-rest\src\main\java\br\com\italo\springrest\config\SpringRootConfig.java
